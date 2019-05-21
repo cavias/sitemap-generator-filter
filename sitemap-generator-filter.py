@@ -1,7 +1,5 @@
-import xml.etree.ElementTree as ElementTree
 import argparse
 import re
-import os.path
 
 # Init commandline
 parser = argparse.ArgumentParser(description='Specify file, get output.')
